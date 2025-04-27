@@ -1,0 +1,30 @@
+.exercise {
+    font-size: 16px;
+    margin: 0px 0;        /* reduce espacio vertical entre párrafos */
+    line-height: 1.2;     /* reduce espacio entre líneas si hay varias */
+  }
+  
+  .rest {
+    font-style: italic;
+    font-size: 10px;
+    color: grey;
+    margin: 0px 0;        /* reduce espacio vertical entre párrafos */
+    line-height: 1.2;     /* reduce espacio entre líneas si hay varias */
+  }
+  
+  .Header_title{
+    font-size: 32px;
+    font-weight: bold;
+    color: #1976d2;
+    margin: 0;
+}
+
+.titulo-cuadro {
+    background-color: #f0f0f0;
+    padding: 32px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+  }
