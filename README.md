@@ -22,8 +22,9 @@ Cloud and backend systems
 
 🚀 Projects Deployed on Vercel
 
-- [🌐 Project 1](https://erlea-erle.vercel.app/) – A webpage for a collegue that manufactures Honey by himself. In Basque and Spanish.
-- [🌐 Proyecto 2](https://relatos-de-papel-unir-two.vercel.app/) – Book ecommerce web page. 
+- [🌐 Project 1](https://honey-webpage.vercel.app/) – A webpage for a collegue that manufactures Honey by himself. In Basque and Spanish.
+- [🌐 Project 2](https://relatos-papel-frontend.vercel.app/#/app) – Book ecommerce web page.
+- [🌐 Project 3](https://energy-price-prediction-frontend-bh.vercel.app/) – Energy market price stimation webpage, to optimize the best charge and discharge prices for Energy Storage Systems.
 
 📫 Let’s connect
 
